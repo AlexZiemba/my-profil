@@ -5,11 +5,11 @@ body {
 	}
 
 h1 {
-	color: solid purple
+	color: purple
 	}
 
 h2{
-	color: green
+	color: yellow
 	}
 
 body{
@@ -27,7 +27,7 @@ body{
 .test {
 	background: white;
 	padding: 70px;
-	border: 2px solid grey;
+	border: 2px solid yellow;
 	margin: 30px; 
 	box-shadow: 6px 10px 20px rgba(0,0,0,0.1);
 	text-align: center;
@@ -35,8 +35,8 @@ body{
 
 .text {
 	background: white;
-	padding: 70px;
-	border: 2px solid grey;
+	padding: 20px;
+	border: 2px solid purple;
 	margin: 30px; 
 	box-shadow: 6px 10px 20px rgba(0,0,0,0.1);
 	text-align: center;
@@ -45,9 +45,10 @@ body{
 .social {
 	background: white;
 	padding: 20px;
-	border: 2px solid grey;
+	border: 2px solid purple;
 	margin: 30px; 
 	box-shadow: 6px 10px 20px rgba(0,0,0,0.1);
+	text-align: center;
 }
 
 p{
