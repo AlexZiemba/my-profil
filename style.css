@@ -54,13 +54,13 @@ p{
 	}
 
 #logo{
- border-radius: 200px;
+ border-radius: 500px;
  width: 200px;
 }
 
 @media (max-width: 500px) {
 	.profile {
-		width: 400px;
+		width: 402px;
 		padding: 5px;
 		margin: 5px;
 	}
